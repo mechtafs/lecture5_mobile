@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+body {
+
+  font-family: 'PT Sans Caption', sans-serif;
+
+}
+
+ a {
+  color: inherit;
+}
